@@ -18,6 +18,11 @@ a:active, a:focus {
       font-weight: 700;
   }
 
+  p.preco{
+    color: rgb(252, 15, 192);
+    font-weight: 700;
+  }
+
 
 
   .nav {
